@@ -20,3 +20,5 @@ A simple paint app with Python.
 
 ## Output 
 ![Screenshot (12)](https://user-images.githubusercontent.com/65206951/112805527-e15b7800-909f-11eb-9d5b-a0eb60b6414a.png)
+
+"Not a very good drawer, I am"
